@@ -1,3 +1,3 @@
-# # Infinite Runner Base
+# Infinite Runner Base
 
 ![](Assets/Images/image.png)!
